@@ -4,7 +4,7 @@
   "description": "A simple calculator",
   "main": "calculator.js",
   "scripts": {
-    "deploy":"gh-pages -d calculator"
+    "deploy":"gh-pages"
   },
   "author": "Shreya Roy",
   "license": "ISC",
