@@ -4,13 +4,14 @@
   "description": "A simple calculator",
   "main": "calculator.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy":"gh-pages -d calculator"
   },
   "author": "Shreya Roy",
   "license": "ISC",
   "homepage": "https://keerti123235.github.io/calculator",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "gh-pages": "^3.1.0"
   }
 }
